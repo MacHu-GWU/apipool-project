@@ -1,0 +1,5 @@
+pathlib_mate
+twine>=1.5.0
+geopy
+windtalker
+pygments
